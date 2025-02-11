@@ -87,10 +87,10 @@
 
         NUM {
             bindings = <
-&kp MINUS     &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp PLUS                             &kp ENTER       &kp HOME        &kp TILDE  &kp END    &kp RIGHT_ALT
-&kp SLASH     &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp EQUAL  &kp ASTERISK      &trans  &kp PAGE_UP     &kp LEFT_ARROW  &kp DOWN   &kp RIGHT  &kp PAGE_DOWN
-&kp NUMBER_0  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp COMMA  &kp DOT           &trans  &kp LEFT_ARROW  &kp RIGHT       &mkp LCLK  &mkp MCLK  &mkp RCLK
-&trans        &trans        &trans        &trans        &trans     &trans            &trans  &trans                                                &trans
+&kp MINUS     &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp PLUS                             &kp ENTER       &kp HOME        &kp UP_ARROW  &kp END    &kp RIGHT_ALT
+&kp SLASH     &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp EQUAL  &kp ASTERISK      &trans  &kp PAGE_UP     &kp LEFT_ARROW  &kp DOWN      &kp RIGHT  &kp PAGE_DOWN
+&kp NUMBER_0  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp COMMA  &kp DOT           &trans  &kp LEFT_ARROW  &kp RIGHT       &mkp LCLK     &mkp MCLK  &mkp RCLK
+&trans        &trans        &trans        &trans        &trans     &trans            &trans  &trans                                                   &trans
             >;
         };
 
